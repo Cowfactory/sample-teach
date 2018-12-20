@@ -34,12 +34,12 @@ The equals sign ( `=` ) is an `assignment operator`. It basically means, save th
 ### Manipulating data
 Operator | What it does | example
 :--- | :---: | :---
-+ | Addition | x = x + 1
-- | Subtraction | x = x - 1
-* | Multiplication | x = x * 1
-/ | Division | x = x / 1
-++ | Increment | x++
--- | Decrement | x--
+| + | Addition | x = x + 1
+| - | Subtraction | x = x - 1
+| * | Multiplication | x = x * 1
+| / | Division | x = x / 1
+| ++ | Increment | x++
+| -- | Decrement | x--
 
 
 ```javascript
